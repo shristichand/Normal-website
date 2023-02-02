@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <title>My Website</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#home">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+
+        <div class="a">  
+      <h1>Welcome to Shristi's Website</h1>
+      <p>This is the main content of my website. 
+        Here, I can add any text, images, or videos that I want to showcase to my visitors.</p>
+    </div>
+
+    <div class="b">
+       <h1>Here's what I like to do in a day</h1>
+       <p>
+        <ol>
+            <li><a >I like to eat</a></li>
+            <li><a >I like to sleep</a></li>
+            <li><a >I like to run</a></li>
+            <li><a></a>I like to jump</a></li>
+          </ol>
+       </p>
+    </div>
+    <div class="c">
+        <h1>This is view of my room</h1>
+    </div>
+
+    <div class="image-container">
+        <img src="https://i.pinimg.com/originals/22/96/4c/22964cb685de2e18916f94531daaf9e2.jpg" alt="Your Image">
+        <img id = logo src="https://i.pinimg.com/736x/5c/96/71/5c9671b0d4b94d8c347336e077639541.jpg" alt="" srcset="">
+
+      </div>
+      
+       
+    </main>
+    <footer>
+      <p>Copyright &copy; 2023 My Website</p>
+    </footer>
+  </body>
+</html>
